@@ -1,4 +1,4 @@
-package basics;
+package basics.core;
 //Initialize two character variables in a program and display the characters in alphabetical order.
 
 import java.util.Scanner;
